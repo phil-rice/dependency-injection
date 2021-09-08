@@ -1,3 +1,5 @@
+This is to support [Dependency Injection in Scala](https://docs.google.com/presentation/d/e/2PACX-1vR7EOmA2lE-uoy0gyOWWBkxL46NE1x7SrJP6cjujgYO3zLtJ4FChhFZH8zz6bIHkO1DVVDfW192VeqI/pub?start=false&loop=false&delayms=3000)
+
 We have here a set of higher order functions that lift some 'business logic'.
 
 All of them turn a function `From => To` into a new function `From => To`. The
